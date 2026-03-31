@@ -1,0 +1,6 @@
+# Anchor Configuration: Test Vessel
+Type: Test Anchor
+Weight: 20kg
+Chain Length: 20m
+Material: Galvanized Steel
+Deployment Depth: 5m
