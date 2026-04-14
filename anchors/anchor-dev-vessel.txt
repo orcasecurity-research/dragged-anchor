@@ -1,0 +1,6 @@
+# Anchor Configuration: Test Vessel
+Type: Royal Anchor
+Weight: 11000kg
+Chain Length: 150m
+Material: Tungsteen
+Deployment Depth: 80m
